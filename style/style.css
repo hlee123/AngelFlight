@@ -95,8 +95,7 @@ nav{
   text-align: right;
   margin: 0;
   position: fixed;
-
-  padding: 0;
+  padding-top: 10px;
   height: 45px;
 }
 
@@ -122,7 +121,7 @@ img.logo{
 .TEST{
   position: absolute;
   left: 549px;
-  top: 480px;
+  top: 490px;
   z-index: 2;
   color: white;
   padding: 10px 60px;
@@ -144,7 +143,7 @@ footer{
   font-family: 'Nanum Gothic',helvetica, sans-serif;
 }
 .imag{
-  height: 570px;
+  height: 580px;
 }
 .aboutafmstext{
   width: 800px;
