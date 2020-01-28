@@ -49,6 +49,9 @@ a .screen::after{
   opacity: 0;
   transition: all .35s;
 }
+.banner1{
+  width: 1350px;
+}
 a:hover .screen::after{
   opacity: 1;
 }
