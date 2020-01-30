@@ -158,8 +158,20 @@ footer{
 }
 table img{
   width: 200px;
+  height: 200px;
 }
 td{
   padding-left: 5px;
   padding-right: 5px;
+}
+.TEST2{
+  position: absolute;
+  left:1000px;
+  top: 40px;
+  z-index: 2;
+  color: black;
+  padding: 10px 60px;
+  border: solid black;
+  text-decoration: none;
+  font-weight: bold;
 }
