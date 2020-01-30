@@ -166,12 +166,24 @@ td{
 }
 .TEST2{
   position: absolute;
-  left:1000px;
+  left:1200px;
   top: 40px;
   z-index: 2;
   color: black;
-  padding: 10px 60px;
+  padding: 10px 40px;
   border: solid black;
   text-decoration: none;
   font-weight: bold;
+}
+.award{
+  width: 900px;
+  margin-left: 220px;
+}
+.client img{
+  width: 400px;
+  height: 400px;
+}
+.newpage{
+  margin-top: 30px;
+  margin-left: 20px;
 }
