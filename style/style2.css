@@ -222,3 +222,7 @@ nav.nav2{
   margin-top: 60px;
 }
 
+nav.nav1{
+  border-bottom: solid gray;
+  border-width: thin;
+}
