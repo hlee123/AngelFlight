@@ -49,9 +49,6 @@ a .screen::after{
   opacity: 0;
   transition: all .35s;
 }
-.banner1 {
-  width: 1350px;
-}
 a:hover .screen::after{
   opacity: 1;
 }
@@ -191,3 +188,37 @@ footer{
   font-family: 'Nanum Gothic',helvetica, sans-serif;
   background-color: navy;
 }
+nav.nav2{
+  position: absolute;
+  font-family: 'Nanum Gothic',helvetica, sans-serif;
+  height: 60px;
+  top: 61px;
+  z-index: 2;
+  padding: 0;
+  text-align: center;
+  border: 0;
+}
+.nav2 a{
+  text-decoration: none;
+}
+.nav2 table{
+  margin: 0;
+}
+.nav2 table td{
+  width: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.nav2 table p{
+  font-family: 'Nanum Gothic',helvetica, sans-serif;
+  text-decoration: none;
+  color: gray;
+}
+.banner1 {
+  width: 1350px;
+  margin-top: 60px;
+}
+.aboutafmstext{
+  margin-top: 60px;
+}
+
